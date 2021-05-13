@@ -1,0 +1,11 @@
+.navbar-brand {
+  font-weight: 700;
+}
+
+ul li:nth-child(1) {
+  border-bottom: 2px solid tomato;
+}
+
+li a {
+  color: black !important;
+}
